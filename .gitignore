@@ -1,4 +1,5 @@
-experiment_result/
+_RESULT/
+_DATA/
 DATA/
 # Byte-compiled / optimized / DLL files
 __pycache__/

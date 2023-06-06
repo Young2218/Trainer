@@ -25,7 +25,7 @@ class Trainer:
         
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.writer = SummaryWriter(log_save_path)
-
+        print(self.device)
      
 
     def train(self):
@@ -37,7 +37,9 @@ class Trainer:
             train_loss = self.train_one_epoch()
             val_loss = self.validate_one_epoch()
             
-            if isinstance(self.scheduler, torch.optim.lr_scheduler.ReduceLROnPlateau):
+            if self.scheduler is None:
+                pass
+            elif isinstance(self.scheduler, torch.optim.lr_scheduler.ReduceLROnPlateau):
                 self.scheduler.step(val_loss)
             else:
                 self.scheduler.step()
@@ -72,11 +74,11 @@ class Trainer:
     def train_one_epoch(self) -> float:
         self.model.train()        
         loss_list = []
-        for images, labels in tqdm(self.train_loader):
+        for inputs, labels in tqdm(self.train_loader):
             
-            images = images.to(self.device)
+            inputs = inputs.to(self.device)
             labels = labels.to(self.device)
-            outputs = self.model(images)
+            outputs = self.model(inputs)
 
             self.optimizer.zero_grad()
             loss = self.criterion(outputs, labels)
@@ -97,14 +99,38 @@ class Trainer:
             eval_met.reset()
         
         with torch.no_grad():
-            for images, labels in tqdm(self.val_loader):
-                # get the inputs
-                images = images.to(self.device)
+            for inputs, labels in tqdm(self.val_loader):
+                inputs = inputs.to(self.device)
                 labels = labels.to(self.device)
 
-                # predict classes using images from the training set
-                outputs = self.model(images)
-                # compute the loss based on model output and real labels
+                outputs = self.model(inputs)
+                loss = self.criterion(outputs, labels)
+                loss_list.append(loss)
+                
+                # _, predicted = torch.max(outputs.data, 1)
+                
+                for eval_met in self.evaluate_dic.values():
+                    eval_met.update(outputs, labels)
+                     
+        val_loss = sum(loss_list)/len(loss_list)
+        
+        return val_loss
+
+    def inference_with_test_loader(self):
+        self.model.to(self.device)
+        self.model.eval()        
+        loss_list = []
+        
+        for eval_met in self.evaluate_dic.values():
+            eval_met.reset()
+        
+        with torch.no_grad():
+            for inputs, labels in tqdm(self.test_loader):
+                # get the inputs
+                inputs = inputs.to(self.device)
+                labels = labels.to(self.device)
+
+                outputs = self.model(inputs)
                 loss = self.criterion(outputs, labels)
                 loss_list.append(loss)
                 
@@ -112,31 +138,35 @@ class Trainer:
 
                 for eval_met in self.evaluate_dic.values():
                     eval_met.update(predicted, labels)
-                     
-        val_loss = sum(loss_list)/len(loss_list)
         
-        return val_loss
-
-    def inference(self):
+        print("LOSS", sum(loss_list)/len(loss_list))       
+        for name, met in self.evaluate_dic.items():
+            print(f"{name}[{met.get_value():.5f}]", end=' ')
+        print()
+        
+    def inference_with_test_loader(self):
         self.model.eval()        
+        loss_list = []
         
         for eval_met in self.evaluate_dic.values():
             eval_met.reset()
         
         with torch.no_grad():
-            for images, labels in tqdm(self.test_loader):
+            for inputs, labels in tqdm(self.test_loader):
                 # get the inputs
-                images = images.to(self.device)
+                inputs = inputs.to(self.device)
                 labels = labels.to(self.device)
 
-                # predict classes using images from the training set
-                outputs = self.model(images)
-                # compute the loss based on model output and real labels
+                outputs = self.model(inputs)
+                loss = self.criterion(outputs, labels)
+                loss_list.append(loss)
                 
-                _, predicted = torch.max(outputs.data, 1)
+                # _, predicted = torch.max(outputs.data, 1)
 
                 for eval_met in self.evaluate_dic.values():
-                    eval_met.update(predicted, labels)
+                    eval_met.update(outputs, labels)
+        
+        print("LOSS", sum(loss_list)/len(loss_list))       
         for name, met in self.evaluate_dic.items():
             print(f"{name}[{met.get_value():.5f}]", end=' ')
         print()
