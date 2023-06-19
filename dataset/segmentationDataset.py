@@ -18,10 +18,7 @@ class SegmentationDataset(Dataset):
         
         if transforms is None:
             transforms = A.Compose([
-                A.Resize(img_size, img_size),
-                A.HorizontalFlip(p=0.5),
-                A.VerticalFlip(p=0.5),
-                A.Rotate(180,p=1)
+                A.Resize(img_size, img_size)
             ])
         self.transforms = transforms
 
