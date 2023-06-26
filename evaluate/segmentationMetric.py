@@ -22,7 +22,7 @@ class DiceCoef():
         self.count += len(gt)
         self.avg = self.sum / self.count
     
-    def get_value(self):
+    def compute(self):
         return self.avg
     
     def __str__(self):
@@ -55,7 +55,7 @@ class meanIOU():
         self.count += len(gt)
         self.avg = self.sum / self.count
     
-    def get_value(self):
+    def compute(self):
         return self.avg
     
     def __str__(self):

@@ -2,7 +2,7 @@ import torch
 from tqdm import tqdm
 from torch.utils.tensorboard import SummaryWriter
 
-class Trainer:
+class Trainer2:
     def __init__(self, model, max_epoch, early_stop, 
                  train_loader, val_loader, test_loader,
                  save_path, log_save_path,
@@ -47,13 +47,13 @@ class Trainer:
             self.writer.add_scalar("LOSS/train_loss", train_loss, epoch)
             self.writer.add_scalar("LOSS/val_loss", val_loss, epoch)
             for name, met in self.evaluate_dic.items():
-                self.writer.add_scalar(name, met.get_value(), epoch)
+                self.writer.add_scalar(name, met.compute(), epoch)
             
             self.writer.flush()
             
             print(f'EPOCH[{epoch}] TRAIN_LOSS[{train_loss:.5f}] VAL_LOSS[{val_loss:.5f}]', end=' ')
             for name, met in self.evaluate_dic.items():
-                print(f"{name}[{met.get_value():.5f}]", end=' ')
+                print(f"{name}[{met.compute():.5f}]", end=' ')
             print()
             
             
@@ -78,7 +78,7 @@ class Trainer:
             
             inputs = inputs.to(self.device)
             labels = labels.to(self.device)
-            outputs = self.model(inputs)
+            outputs = self.model(inputs, labels)
 
             self.optimizer.zero_grad()
             loss = self.criterion(outputs, labels)
@@ -103,7 +103,7 @@ class Trainer:
                 inputs = inputs.to(self.device)
                 labels = labels.to(self.device)
 
-                outputs = self.model(inputs)
+                outputs = self.model(inputs, labels)
                 loss = self.criterion(outputs, labels)
                 loss_list.append(loss)
                 
@@ -130,7 +130,7 @@ class Trainer:
                 inputs = inputs.to(self.device)
                 labels = labels.to(self.device)
 
-                outputs = self.model(inputs)
+                outputs = self.model(inputs, labels)
                 loss = self.criterion(outputs, labels)
                 loss_list.append(loss)
                 
@@ -141,7 +141,7 @@ class Trainer:
         
         print("LOSS", sum(loss_list)/len(loss_list))       
         for name, met in self.evaluate_dic.items():
-            print(f"{name}[{met.get_value():.5f}]", end=' ')
+            print(f"{name}[{met.compute():.5f}]", end=' ')
         print()
         
     def inference_with_test_loader(self):
@@ -157,7 +157,7 @@ class Trainer:
                 inputs = inputs.to(self.device)
                 labels = labels.to(self.device)
 
-                outputs = self.model(inputs)
+                outputs = self.model(inputs, labels)
                 loss = self.criterion(outputs, labels)
                 loss_list.append(loss)
                 
@@ -168,5 +168,5 @@ class Trainer:
         
         print("LOSS", sum(loss_list)/len(loss_list))       
         for name, met in self.evaluate_dic.items():
-            print(f"{name}[{met.get_value():.5f}]", end=' ')
+            print(f"{name}[{met.compute():.5f}]", end=' ')
         print()

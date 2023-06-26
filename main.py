@@ -1,16 +1,6 @@
-import torch
-import torch.nn as nn
-import torch.nn.functional as F
-import torchvision.models as models
-from torchsummary import summary
-from transformers import SegformerImageProcessor, SegformerForSemanticSegmentation
-
-from model.blocks.attentionBlock import AttentionBlock, ChannelAttention, SpatialAttention
-from model.blocks.doubleConvBlock import DoubleConvBlock
-from model.blocks.upConvBlock import UpConvBlock
-from model.tecdv2 import TECDv2
-
-from _Project.TECDv2.train_tecd_v2 import *
+from _Project.ExtraNode.train_vgg import *
+from _Project.ExtraNode.train_eff import *
 
 if __name__ == "__main__":
-    train_TECDv2()
+    # train_vgg_kvasir_angular_loss(batch_size=16)  
+    train_eff_extra_kvasir_arc(batch_size=16)

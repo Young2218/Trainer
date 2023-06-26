@@ -16,7 +16,7 @@ class AccuracyMeter():
         self.count += len(gt)
         self.avg = self.sum / self.count
     
-    def get_value(self):
+    def compute(self):
         return self.avg
     
     def __str__(self):
@@ -39,7 +39,7 @@ class StockMeter():
         for e, i in enumerate(argmax_dim[1]):
             self.real_money *= (1+gt[e][i])
     
-    def get_value(self):
+    def compute(self):
         return  self.real_money.item()
     
     def __str__(self):
@@ -63,7 +63,7 @@ class StocAverageRevenuekMeter():
             self.sum += gt[e][i].sum()
             self.count += self.topk
     
-    def get_value(self):
+    def compute(self):
         return  self.sum / self.count
     
     def __str__(self):
