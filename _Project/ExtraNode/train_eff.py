@@ -195,7 +195,6 @@ def train_eff_kvasir_arc(batch_size = 4, lr = 1e-4):
     trainer.train()
     trainer.inference_with_test_loader()
 
-
 def train_eff_extra_kvasir_arc(batch_size = 4, lr = 1e-4):
     seed_everything(17)
     experiment_root = "/home/prml/chanyoung/Trainer/_RESULT/ExtraNode/"

@@ -1,0 +1,801 @@
+,filepath,class
+0,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-5836013-20171023.jpg,uc
+1,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-20203433-20111205.jpg,uc
+2,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-10096393-20060710 (3).jpg,uc
+3,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-21004153-20150529 (3).jpg,uc
+4,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-29011103-20120306 (2).jpg,uc
+5,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-27018973-20100707 (3).jpg,uc
+6,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-34124553-20160809 (2).jpg,uc
+7,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-25490323-20100823 (4).jpg,uc
+8,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-25151683-20160826 (2).jpg,uc
+9,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-19106503-20120427.jpg,uc
+10,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-13417883-20080919.jpg,uc
+11,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-23950213-20080725.jpg,uc
+12,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-34550913-20170320.jpg,uc
+13,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-19728373-20070612 (2).jpg,uc
+14,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-4875713-20120227 (2).jpg,uc
+15,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-8225273-20070105 (3).jpg,uc
+16,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-23577903-20070820 (2).jpg,uc
+17,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-26075623-20150831 (3).jpg,uc
+18,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-21969733-20060131 (3).jpg,uc
+19,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-20926953-20061117 (3).jpg,uc
+20,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-12215403-20091231 (3).jpg,uc
+21,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-25255913-20090305 (3).jpg,uc
+22,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-16297223-20160128 (5).jpg,uc
+23,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-7258673-20041228.jpg,uc
+24,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-19113533-20121008.jpg,uc
+25,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-22098703-20100316.jpg,uc
+26,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-30965563-20140526 (2).jpg,uc
+27,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-10096393-20060710 (2).jpg,uc
+28,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-20342143-20091127.jpg,uc
+29,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-27867303-20130213 (2).jpg,uc
+30,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-27748913-20110127 (3).jpg,uc
+31,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-17673553-20160831.jpg,uc
+32,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-11840353-20140521 (2).jpg,uc
+33,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-2804183-20080305 (2).jpg,uc
+34,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-4877693-20110119 (2).jpg,uc
+35,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-28072393-20111108 (4).jpg,uc
+36,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-5416893-20170327 (2).jpg,uc
+37,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-24653653-20080728 (2).jpg,uc
+38,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-22415753-20060712 (3).jpg,uc
+39,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-25255913-20090305 (2).jpg,uc
+40,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-19288603-20070625.jpg,uc
+41,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-34662413-20170707.jpg,uc
+42,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-25151683-20160826 (3).jpg,uc
+43,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-31730163-20140926 (2).jpg,uc
+44,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-24308083-20090908 (3).jpg,uc
+45,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-25490323-20100823 (2).jpg,uc
+46,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-32404383-20150529 (3).jpg,uc
+47,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-21037873-20080410.jpg,uc
+48,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-26663233-20100330.jpg,uc
+49,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-35181163-20170818 (3).jpg,uc
+50,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-34124553-20160809 (4).jpg,uc
+51,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-13866543-20101124.jpg,uc
+52,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-23165823-20070329 (2).jpg,uc
+53,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-24293303-20091230 (8).jpg,uc
+54,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-20172553-20110105 (2).jpg,uc
+55,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-16021433-20080818 (3).jpg,uc
+56,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-19288603-20070625 (4).jpg,uc
+57,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-27018973-20100707.jpg,uc
+58,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-27867303-20130213.jpg,uc
+59,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-31730163-20140926 (3).jpg,uc
+60,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-8598663-20100514.jpg,uc
+61,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-23165823-20070329.jpg,uc
+62,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-16848723-20060616 (3).jpg,uc
+63,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-21966833-20060110.jpg,uc
+64,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-16297223-20160128 (4).jpg,uc
+65,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-10096393-20060710 (4).jpg,uc
+66,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-18771093-20020821 (2).jpg,uc
+67,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-6911373-20090812 (2).jpg,uc
+68,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-11133853-20110624 (2).jpg,uc
+69,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-6466933-20040623 (2).jpg,uc
+70,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-34124553-20160809 (5).jpg,uc
+71,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-5283803-20170322.jpg,uc
+72,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-1848491-20081231.jpg,uc
+73,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-24977743-20081119 (2).jpg,uc
+74,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-18126323-20090402.jpg,uc
+75,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-25378833-20090902 (2).jpg,uc
+76,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-32111613-20160627 (2).jpg,uc
+77,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-31792793-20141017 (2).jpg,uc
+78,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-30207733-20130828 (3).jpg,uc
+79,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-19596563-20111114 (2).jpg,uc
+80,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-22797333-20090113.jpg,uc
+81,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-21966833-20060110 (7).jpg,uc
+82,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-7994393-20131218 (2).jpg,uc
+83,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-22256133-20110906 (2).jpg,uc
+84,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-12257503-20141030.jpg,uc
+85,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-25300603-20090304.jpg,uc
+86,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-14276693-20150727 (2).jpg,uc
+87,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-30012163-20130201 (4).jpg,uc
+88,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-17723923-20060328 (5).jpg,uc
+89,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-33416083-20170323 (2).jpg,uc
+90,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-26739813-20100426.jpg,uc
+91,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-21594443-20070228.jpg,uc
+92,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-487743-20061116.jpg,uc
+93,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-23027603-20070523 (2).jpg,uc
+94,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-25392573-20111117 (3).jpg,uc
+95,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-27021793-20100806 (3).jpg,uc
+96,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-6603963-20060908.jpg,uc
+97,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-30234623-20130507 (2).jpg,uc
+98,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-19288603-20070625 (3).jpg,uc
+99,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-30012163-20130201 (3).jpg,uc
+100,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-27154643-20100810.jpg,uc
+101,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-19113533-20121008 (2).jpg,uc
+102,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-31730163-20140926 (4).jpg,uc
+103,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-31986593-20150105.jpg,uc
+104,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-31717823-20170830 (2).jpg,uc
+105,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-2837403-20130221.jpg,uc
+106,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-28015303-20110517 (2).jpg,uc
+107,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-21594443-20070228 (4).jpg,uc
+108,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-5836013-20171023 (3).jpg,uc
+109,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-17062223-20110315 (2).jpg,uc
+110,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-34054603-20160716.jpg,uc
+111,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-20342143-20091127 (2).jpg,uc
+112,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-23797223-20071022 (4).jpg,uc
+113,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-24756713-20080828 (6).jpg,uc
+114,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-34888713-20170422 (2).jpg,uc
+115,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-21966833-20060110 (4).jpg,uc
+116,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-24293303-20091230 (2).jpg,uc
+117,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-4637813-20110525 (2).jpg,uc
+118,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-10806683-20120131.jpg,uc
+119,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-20483873-20081029.jpg,uc
+120,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-22316253-20130510 (3).jpg,uc
+121,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-22415753-20060712 (2).jpg,uc
+122,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-456543-20060112 (2).jpg,uc
+123,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-25726023-20090717 (4).jpg,uc
+124,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-30600253-20150901 (3).jpg,uc
+125,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-24293303-20091230 (7).jpg,uc
+126,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-24260703-20080416.jpg,uc
+127,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-7459653-20151229 (2).jpg,uc
+128,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-20347883-20140723 (2).jpg,uc
+129,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-24756713-20080828 (2).jpg,uc
+130,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-31354053-20140523 (5).jpg,uc
+131,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-32402823-20150821 (3).jpg,uc
+132,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-19827863-20171002.jpg,uc
+133,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-22098703-20100316 (3).jpg,uc
+134,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-28015303-20110517 (3).jpg,uc
+135,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-29699673-20150916.jpg,uc
+136,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-31714393-20150304 (4).jpg,uc
+137,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-19288603-20070625 (2).jpg,uc
+138,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-14346533-20131220 (2).jpg,uc
+139,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-35067653-20171129 (2).jpg,uc
+140,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-22800403-20090209.jpg,uc
+141,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-7879783-20080506 (3).jpg,uc
+142,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-26663233-20100330 (3).jpg,uc
+143,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-30012163-20130201 (2).jpg,uc
+144,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-14276693-20150727 (3).jpg,uc
+145,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-24977743-20081119 (5).jpg,uc
+146,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-32402823-20150821.jpg,uc
+147,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-21594443-20070228 (3).jpg,uc
+148,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-30922793-20140108 (2).jpg,uc
+149,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-18771093-20020821.jpg,uc
+150,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-26964443-20100617 (3).jpg,uc
+151,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-25543013-20111212 (4).jpg,uc
+152,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-31354053-20140523 (2).jpg,uc
+153,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-27018973-20100707 (2).jpg,uc
+154,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-24756713-20080828 (4).jpg,uc
+155,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-14276693-20150727 (5).jpg,uc
+156,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-25392573-20111117 (2).jpg,uc
+157,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-19106503-20120427 (2).jpg,uc
+158,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-19827863-20171002 (2).jpg,uc
+159,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/uc/U-4268513-20140514 (3).jpg,uc
+160,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/18593773(6).jpg,adenoma
+161,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/17204013(1).jpg,adenoma
+162,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/5280913(1).jpg,adenoma
+163,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/20289583(4).jpg,adenoma
+164,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/12239083.jpg,adenoma
+165,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/21249543(1).jpg,adenoma
+166,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/20020723(4).jpg,adenoma
+167,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/10226423.jpg,adenoma
+168,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/22003763(3).jpg,adenoma
+169,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/18190713(2).jpg,adenoma
+170,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/20373463(2).jpg,adenoma
+171,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/10593743(6).jpg,adenoma
+172,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/19930263(1).jpg,adenoma
+173,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/20175063(2).jpg,adenoma
+174,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/10734653 (2).jpg,adenoma
+175,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/16179363(4).jpg,adenoma
+176,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/12722703(3).jpg,adenoma
+177,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/20872543(1).jpg,adenoma
+178,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/14698(3).jpg,adenoma
+179,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/19089983(5).jpg,adenoma
+180,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/21158113(4).jpg,adenoma
+181,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/21617223(2).jpg,adenoma
+182,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/11508503(1).jpg,adenoma
+183,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/11333223(6).jpg,adenoma
+184,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/18129293(1).jpg,adenoma
+185,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/5134(1).jpg,adenoma
+186,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/30321593.jpg,adenoma
+187,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/20020723(5).jpg,adenoma
+188,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/10099033(1).jpg,adenoma
+189,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/5494173(5).jpg,adenoma
+190,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/1524603.jpg,adenoma
+191,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/16193833(2).jpg,adenoma
+192,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/18043953(1).jpg,adenoma
+193,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/8305133.jpg,adenoma
+194,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/19543003.jpg,adenoma
+195,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/5220853(2).jpg,adenoma
+196,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/21859943(1).jpg,adenoma
+197,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/11970743(2).jpg,adenoma
+198,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/12526963(1).jpg,adenoma
+199,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/2658113(2).jpg,adenoma
+200,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/19265643.jpg,adenoma
+201,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/19248443(1).jpg,adenoma
+202,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/16450703(1).jpg,adenoma
+203,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/12722703(5).jpg,adenoma
+204,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/18593773(3).jpg,adenoma
+205,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/4547323(1).jpg,adenoma
+206,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/17758483(1).jpg,adenoma
+207,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/887013(1).jpg,adenoma
+208,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/21602253(3).jpg,adenoma
+209,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/14593283(1).jpg,adenoma
+210,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/12058413(4).jpg,adenoma
+211,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/18191443(1).jpg,adenoma
+212,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/19543003(2).jpg,adenoma
+213,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/1864653(3).jpg,adenoma
+214,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/19645203(5).jpg,adenoma
+215,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/19645203(6).jpg,adenoma
+216,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/3657453(2).jpg,adenoma
+217,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/16768463(1).jpg,adenoma
+218,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/14698(7).jpg,adenoma
+219,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/3625923(1).jpg,adenoma
+220,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/21602253(5).jpg,adenoma
+221,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/5305643(1).jpg,adenoma
+222,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/18190713(4).jpg,adenoma
+223,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/12058413(2).jpg,adenoma
+224,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/21607463(1).jpg,adenoma
+225,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/18593773(5).jpg,adenoma
+226,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/16179363(1).jpg,adenoma
+227,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/23150893(2).jpg,adenoma
+228,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/7339203.jpg,adenoma
+229,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/21298003(7).jpg,adenoma
+230,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/29700803.jpg,adenoma
+231,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/20931703(2).jpg,adenoma
+232,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/11333223(12).jpg,adenoma
+233,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/21588583(3).jpg,adenoma
+234,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/14591923(7).jpg,adenoma
+235,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/11910893(1).jpg,adenoma
+236,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/18903313(1).jpg,adenoma
+237,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/1872193(1).jpg,adenoma
+238,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/18861223(1).jpg,adenoma
+239,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/10078013(1).jpg,adenoma
+240,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/19089983(2).jpg,adenoma
+241,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/5134(2).jpg,adenoma
+242,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/13698503 (2).jpg,adenoma
+243,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/22610793(3).jpg,adenoma
+244,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/2812563(1).jpg,adenoma
+245,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/11333223(4).jpg,adenoma
+246,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/1005673(1).jpg,adenoma
+247,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/1005673(7).jpg,adenoma
+248,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/10650573(1).jpg,adenoma
+249,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/21273563(5).jpg,adenoma
+250,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/14591923(5).jpg,adenoma
+251,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/7067963.jpg,adenoma
+252,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/17962583(5).jpg,adenoma
+253,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/13698503 (4).jpg,adenoma
+254,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/11333223(3).jpg,adenoma
+255,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/22461033(1).jpg,adenoma
+256,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/18129293(5).jpg,adenoma
+257,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/685683(4).jpg,adenoma
+258,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/1872193(2).jpg,adenoma
+259,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/18652033(2).jpg,adenoma
+260,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/4902023.jpg,adenoma
+261,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/20373463(4).jpg,adenoma
+262,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/13870953(2).jpg,adenoma
+263,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/16283063(1).jpg,adenoma
+264,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/14059583(2).jpg,adenoma
+265,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/16319833(1).jpg,adenoma
+266,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/31372093.jpg,adenoma
+267,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/10734653(3).jpg,adenoma
+268,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/13823253(4).jpg,adenoma
+269,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/20373463(1).jpg,adenoma
+270,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/4057793(1).jpg,adenoma
+271,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/5505833(2).jpg,adenoma
+272,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/25497803.jpg,adenoma
+273,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/2407483(1).jpg,adenoma
+274,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/19056173(2).jpg,adenoma
+275,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/18677473(3).jpg,adenoma
+276,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/10359063(4).jpg,adenoma
+277,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/2682733(7).jpg,adenoma
+278,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/29667003.jpg,adenoma
+279,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/5370773.jpg,adenoma
+280,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/20175063(6).jpg,adenoma
+281,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/22275023(3).jpg,adenoma
+282,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/13418643(1).jpg,adenoma
+283,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/10593743(1).jpg,adenoma
+284,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/21083553(1).jpg,adenoma
+285,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/18190713(6).jpg,adenoma
+286,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/33764553.jpg,adenoma
+287,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/1864653(1).jpg,adenoma
+288,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/18015303(2).jpg,adenoma
+289,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/21273563(3).jpg,adenoma
+290,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/12722703(6).jpg,adenoma
+291,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/16316743(2).jpg,adenoma
+292,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/34129013.jpg,adenoma
+293,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/16902653(1).jpg,adenoma
+294,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/27625143 (2).jpg,adenoma
+295,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/18844423(2).jpg,adenoma
+296,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/12335453(4).jpg,adenoma
+297,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/4958263(2).jpg,adenoma
+298,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/18809383.jpg,adenoma
+299,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/19762923(1).jpg,adenoma
+300,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/10832533.jpg,adenoma
+301,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/5578123(2).jpg,adenoma
+302,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/10725993(3).jpg,adenoma
+303,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/10257493.jpg,adenoma
+304,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/23052623(1).jpg,adenoma
+305,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/19089983(9).jpg,adenoma
+306,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/14591923(3).jpg,adenoma
+307,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/22949393(1).jpg,adenoma
+308,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/22003763(5).jpg,adenoma
+309,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/11333223(2).jpg,adenoma
+310,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/17794413.jpg,adenoma
+311,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/13424253.jpg,adenoma
+312,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/6326403 (2).jpg,adenoma
+313,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/20759953(6).jpg,adenoma
+314,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/11333223(10).jpg,adenoma
+315,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/6816113.jpg,adenoma
+316,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/23150893(4).jpg,adenoma
+317,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/10593743(4).jpg,adenoma
+318,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/10650573(4).jpg,adenoma
+319,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenoma/2682733(5).jpg,adenoma
+320,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_441_normal.jpg,normal
+321,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_532_normal.jpg,normal
+322,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_164_normal.jpg,normal
+323,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_446_normal.jpg,normal
+324,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_53_normal.jpg,normal
+325,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_630_normal.jpg,normal
+326,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_229_normal.jpg,normal
+327,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_244_normal.jpg,normal
+328,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_409_normal.jpg,normal
+329,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_273_normal.jpg,normal
+330,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_711_normal.jpg,normal
+331,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_252_normal.jpg,normal
+332,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_216_normal.jpg,normal
+333,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_341_normal.jpg,normal
+334,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_622_normal.jpg,normal
+335,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_560_normal.jpg,normal
+336,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_741_normal.jpg,normal
+337,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_450_normal.jpg,normal
+338,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_84_normal.jpg,normal
+339,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_202_normal.jpg,normal
+340,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_681_normal.jpg,normal
+341,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_316_normal.jpg,normal
+342,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_552_normal.jpg,normal
+343,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_614_normal.jpg,normal
+344,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_699_normal.jpg,normal
+345,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_493_normal.jpg,normal
+346,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_748_normal.jpg,normal
+347,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_582_normal.jpg,normal
+348,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_238_normal.jpg,normal
+349,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_376_normal.jpg,normal
+350,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_76_normal.jpg,normal
+351,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_462_normal.jpg,normal
+352,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_610_normal.jpg,normal
+353,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_534_normal.jpg,normal
+354,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_314_normal.jpg,normal
+355,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_607_normal.jpg,normal
+356,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_183_normal.jpg,normal
+357,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_427_normal.jpg,normal
+358,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_416_normal.jpg,normal
+359,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_793_normal.jpg,normal
+360,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_640_normal.jpg,normal
+361,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_791_normal.jpg,normal
+362,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_405_normal.jpg,normal
+363,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_381_normal.jpg,normal
+364,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_213_normal.jpg,normal
+365,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_591_normal.jpg,normal
+366,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_248_normal.jpg,normal
+367,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_541_normal.jpg,normal
+368,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_418_normal.jpg,normal
+369,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_149_normal.jpg,normal
+370,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_668_normal.jpg,normal
+371,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_654_normal.jpg,normal
+372,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_277_normal.jpg,normal
+373,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_11_normal.jpg,normal
+374,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_357_normal.jpg,normal
+375,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_310_normal.jpg,normal
+376,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_318_normal.jpg,normal
+377,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_382_normal.jpg,normal
+378,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_662_normal.jpg,normal
+379,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_176_normal.jpg,normal
+380,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_36_normal.jpg,normal
+381,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_803_normal.jpg,normal
+382,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_8_normal.jpg,normal
+383,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_597_normal.jpg,normal
+384,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_787_normal.jpg,normal
+385,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_335_normal.jpg,normal
+386,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_106_normal.jpg,normal
+387,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_315_normal.jpg,normal
+388,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_287_normal.jpg,normal
+389,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_400_normal.jpg,normal
+390,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_708_normal.jpg,normal
+391,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_210_normal.jpg,normal
+392,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_39_normal.jpg,normal
+393,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_304_normal.jpg,normal
+394,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_189_normal.jpg,normal
+395,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_173_normal.jpg,normal
+396,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_520_normal.jpg,normal
+397,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_476_normal.jpg,normal
+398,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_207_normal.jpg,normal
+399,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_366_normal.jpg,normal
+400,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_754_normal.jpg,normal
+401,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_584_normal.jpg,normal
+402,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_650_normal.jpg,normal
+403,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_479_normal.jpg,normal
+404,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_171_normal.jpg,normal
+405,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_744_normal.jpg,normal
+406,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_322_normal.jpg,normal
+407,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_440_normal.jpg,normal
+408,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_778_normal.jpg,normal
+409,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_387_normal.jpg,normal
+410,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_91_normal.jpg,normal
+411,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_245_normal.jpg,normal
+412,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_290_normal.jpg,normal
+413,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_460_normal.jpg,normal
+414,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_386_normal.jpg,normal
+415,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_771_normal.jpg,normal
+416,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_124_normal.jpg,normal
+417,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_267_normal.jpg,normal
+418,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_198_normal.jpg,normal
+419,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_517_normal.jpg,normal
+420,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_807_normal.jpg,normal
+421,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_57_normal.jpg,normal
+422,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_759_normal.jpg,normal
+423,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_550_normal.jpg,normal
+424,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_528_normal.jpg,normal
+425,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_472_normal.jpg,normal
+426,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_185_normal.jpg,normal
+427,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_518_normal.jpg,normal
+428,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_438_normal.jpg,normal
+429,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_490_normal.jpg,normal
+430,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_685_normal.jpg,normal
+431,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_724_normal.jpg,normal
+432,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_360_normal.jpg,normal
+433,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_128_normal.jpg,normal
+434,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_495_normal.jpg,normal
+435,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_557_normal.jpg,normal
+436,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_354_normal.jpg,normal
+437,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_498_normal.jpg,normal
+438,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_100_normal.jpg,normal
+439,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_204_normal.jpg,normal
+440,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_142_normal.jpg,normal
+441,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_289_normal.jpg,normal
+442,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_119_normal.jpg,normal
+443,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_598_normal.jpg,normal
+444,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_765_normal.jpg,normal
+445,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_230_normal.jpg,normal
+446,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_348_normal.jpg,normal
+447,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_514_normal.jpg,normal
+448,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_136_normal.jpg,normal
+449,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_177_normal.jpg,normal
+450,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_507_normal.jpg,normal
+451,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_263_normal.jpg,normal
+452,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_742_normal.jpg,normal
+453,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_145_normal.jpg,normal
+454,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_792_normal.jpg,normal
+455,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_422_normal.jpg,normal
+456,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_567_normal.jpg,normal
+457,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_226_normal.jpg,normal
+458,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_393_normal.jpg,normal
+459,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_157_normal.jpg,normal
+460,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_419_normal.jpg,normal
+461,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_647_normal.jpg,normal
+462,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_671_normal.jpg,normal
+463,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_292_normal.jpg,normal
+464,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_256_normal.jpg,normal
+465,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_197_normal.jpg,normal
+466,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_727_normal.jpg,normal
+467,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_506_normal.jpg,normal
+468,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_733_normal.jpg,normal
+469,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_395_normal.jpg,normal
+470,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_285_normal.jpg,normal
+471,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_486_normal.jpg,normal
+472,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_330_normal.jpg,normal
+473,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_431_normal.jpg,normal
+474,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_339_normal.jpg,normal
+475,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_434_normal.jpg,normal
+476,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_281_normal.jpg,normal
+477,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_16_normal.jpg,normal
+478,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_71_normal.jpg,normal
+479,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/normal/02_604_normal.jpg,normal
+480,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/31698383.jpg,adenocarcinoma
+481,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/32213443.jpg,adenocarcinoma
+482,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/34846603.jpg,adenocarcinoma
+483,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/1038743.jpg,adenocarcinoma
+484,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/33286563.jpg,adenocarcinoma
+485,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/31789083.jpg,adenocarcinoma
+486,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/5540173.jpg,adenocarcinoma
+487,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/31128513.jpg,adenocarcinoma
+488,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/12239083.jpg,adenocarcinoma
+489,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/29959373.jpg,adenocarcinoma
+490,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/22949393.jpg,adenocarcinoma
+491,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/23657153.jpg,adenocarcinoma
+492,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/24883663.jpg,adenocarcinoma
+493,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/31058263.jpg,adenocarcinoma
+494,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/24610513.jpg,adenocarcinoma
+495,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/21511373.jpg,adenocarcinoma
+496,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/34023353.jpg,adenocarcinoma
+497,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/28339583.jpg,adenocarcinoma
+498,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/30695753.jpg,adenocarcinoma
+499,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/33404023.jpg,adenocarcinoma
+500,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/6709183.jpg,adenocarcinoma
+501,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/28599803.jpg,adenocarcinoma
+502,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/21744843.jpg,adenocarcinoma
+503,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/33464383.jpg,adenocarcinoma
+504,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/18042453.jpg,adenocarcinoma
+505,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/34859233.jpg,adenocarcinoma
+506,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/17833683.jpg,adenocarcinoma
+507,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/30477923.jpg,adenocarcinoma
+508,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/29902053.jpg,adenocarcinoma
+509,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/34681453.jpg,adenocarcinoma
+510,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/33670663.jpg,adenocarcinoma
+511,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/35092133.jpg,adenocarcinoma
+512,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/11508503.jpg,adenocarcinoma
+513,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/11194213.jpg,adenocarcinoma
+514,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/33284143.jpg,adenocarcinoma
+515,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/10924533.jpg,adenocarcinoma
+516,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/29121893.jpg,adenocarcinoma
+517,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/19719353.jpg,adenocarcinoma
+518,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/20488103.jpg,adenocarcinoma
+519,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/13473043.jpg,adenocarcinoma
+520,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/31861963.jpg,adenocarcinoma
+521,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/17762373.jpg,adenocarcinoma
+522,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/21122073.jpg,adenocarcinoma
+523,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/12337713.jpg,adenocarcinoma
+524,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/29470433.jpg,adenocarcinoma
+525,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/3576513.jpg,adenocarcinoma
+526,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/21588583.jpg,adenocarcinoma
+527,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/7699973.jpg,adenocarcinoma
+528,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/33759133.jpg,adenocarcinoma
+529,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/17178243.jpg,adenocarcinoma
+530,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/29164453.jpg,adenocarcinoma
+531,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/25174783.jpg,adenocarcinoma
+532,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/23112323.jpg,adenocarcinoma
+533,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/34121503.jpg,adenocarcinoma
+534,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/25597573.jpg,adenocarcinoma
+535,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/30763063.jpg,adenocarcinoma
+536,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/34448313.jpg,adenocarcinoma
+537,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/3387413.jpg,adenocarcinoma
+538,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/31621643.jpg,adenocarcinoma
+539,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/29996733.jpg,adenocarcinoma
+540,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/887013.jpg,adenocarcinoma
+541,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/9271713.jpg,adenocarcinoma
+542,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/31497163.jpg,adenocarcinoma
+543,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/31899133.jpg,adenocarcinoma
+544,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/34580323.jpg,adenocarcinoma
+545,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/2495001.jpg,adenocarcinoma
+546,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/18844423.jpg,adenocarcinoma
+547,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/20043543.jpg,adenocarcinoma
+548,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/10323753.jpg,adenocarcinoma
+549,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/34209863.jpg,adenocarcinoma
+550,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/11843533.jpg,adenocarcinoma
+551,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/5949033.jpg,adenocarcinoma
+552,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/16788103.jpg,adenocarcinoma
+553,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/27812353.jpg,adenocarcinoma
+554,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/31159223 (2).jpg,adenocarcinoma
+555,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/16294363.jpg,adenocarcinoma
+556,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/21594443.jpg,adenocarcinoma
+557,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/30848133.jpg,adenocarcinoma
+558,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/33651743.jpg,adenocarcinoma
+559,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/21249543.jpg,adenocarcinoma
+560,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/22949393 (2).jpg,adenocarcinoma
+561,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/32286363.jpg,adenocarcinoma
+562,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/19292963.jpg,adenocarcinoma
+563,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/29777413.jpg,adenocarcinoma
+564,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/20373463.jpg,adenocarcinoma
+565,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/29966023.jpg,adenocarcinoma
+566,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/25428663.jpg,adenocarcinoma
+567,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/29579063.jpg,adenocarcinoma
+568,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/34631323.jpg,adenocarcinoma
+569,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/6583803.jpg,adenocarcinoma
+570,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/8615323.jpg,adenocarcinoma
+571,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/33430783.jpg,adenocarcinoma
+572,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/31205253.jpg,adenocarcinoma
+573,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/6706913.jpg,adenocarcinoma
+574,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/31393213.jpg,adenocarcinoma
+575,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/30975943.jpg,adenocarcinoma
+576,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/628853.jpg,adenocarcinoma
+577,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/33735273.jpg,adenocarcinoma
+578,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/5105723.jpg,adenocarcinoma
+579,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/32440243.jpg,adenocarcinoma
+580,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/31785113.jpg,adenocarcinoma
+581,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/18652033.jpg,adenocarcinoma
+582,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/32354403.jpg,adenocarcinoma
+583,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/7935713.jpg,adenocarcinoma
+584,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/16732693.jpg,adenocarcinoma
+585,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/29768883.jpg,adenocarcinoma
+586,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/32055443.jpg,adenocarcinoma
+587,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/13312203.jpg,adenocarcinoma
+588,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/9751363.jpg,adenocarcinoma
+589,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/6090333.jpg,adenocarcinoma
+590,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/29667003.jpg,adenocarcinoma
+591,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/25530263.jpg,adenocarcinoma
+592,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/23175013.jpg,adenocarcinoma
+593,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/30365303.jpg,adenocarcinoma
+594,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/21122083.jpg,adenocarcinoma
+595,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/10488153.jpg,adenocarcinoma
+596,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/11603803.jpg,adenocarcinoma
+597,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/6061993.jpg,adenocarcinoma
+598,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/16435563.jpg,adenocarcinoma
+599,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/17986133.jpg,adenocarcinoma
+600,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/12826133.jpg,adenocarcinoma
+601,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/5928243.jpg,adenocarcinoma
+602,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/9883793.jpg,adenocarcinoma
+603,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/18191443.jpg,adenocarcinoma
+604,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/4839213.jpg,adenocarcinoma
+605,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/30546903.jpg,adenocarcinoma
+606,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/11284473.jpg,adenocarcinoma
+607,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/16036253.jpg,adenocarcinoma
+608,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/24541133.jpg,adenocarcinoma
+609,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/18949923.jpg,adenocarcinoma
+610,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/22275023.jpg,adenocarcinoma
+611,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/30577403.jpg,adenocarcinoma
+612,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/10454823.jpg,adenocarcinoma
+613,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/30447523.jpg,adenocarcinoma
+614,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/17307013.jpg,adenocarcinoma
+615,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/783301.jpg,adenocarcinoma
+616,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/6341763.jpg,adenocarcinoma
+617,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/29886323.jpg,adenocarcinoma
+618,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/32180433.jpg,adenocarcinoma
+619,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/14189873.jpg,adenocarcinoma
+620,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/7617373.jpg,adenocarcinoma
+621,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/13433113.jpg,adenocarcinoma
+622,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/11063913.jpg,adenocarcinoma
+623,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/33902563.jpg,adenocarcinoma
+624,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/33580003.jpg,adenocarcinoma
+625,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/27500093.jpg,adenocarcinoma
+626,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/14277673.jpg,adenocarcinoma
+627,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/26339643.jpg,adenocarcinoma
+628,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/34383763.jpg,adenocarcinoma
+629,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/5180233.jpg,adenocarcinoma
+630,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/27918393.jpg,adenocarcinoma
+631,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/23444833.jpg,adenocarcinoma
+632,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/12963143.jpg,adenocarcinoma
+633,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/18379113.jpg,adenocarcinoma
+634,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/2812563.jpg,adenocarcinoma
+635,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/30166093.jpg,adenocarcinoma
+636,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/34935343.jpg,adenocarcinoma
+637,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/26775153.jpg,adenocarcinoma
+638,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/7241223.jpg,adenocarcinoma
+639,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/adenocarcinoma/33400953.jpg,adenocarcinoma
+640,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-19981073-20140630 (2).jpg,cd
+641,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-32239013-20150409 (5).jpg,cd
+642,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-30183353-20130408 (2).jpg,cd
+643,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-14474163-20100316 (4).jpg,cd
+644,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-9029123-20140905 (3).jpg,cd
+645,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-32714213-20151005 (3).jpg,cd
+646,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-33066133-20151111 (2).jpg,cd
+647,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-25363183-20101018.jpg,cd
+648,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-30939513-20140115.jpg,cd
+649,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-29114113-20141209 (2).jpg,cd
+650,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-30054313-20140228 (2).jpg,cd
+651,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-33954993-20160531 (5).jpg,cd
+652,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-33954993-20160531 (4).jpg,cd
+653,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-26596233-20100622 (3).jpg,cd
+654,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-24129763-20100715.jpg,cd
+655,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-30183353-20130408 (4).jpg,cd
+656,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-17103503-20070309.jpg,cd
+657,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-26168253-20150401.jpg,cd
+658,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-23486823-20151030 (7).jpg,cd
+659,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-23365233-20120118.jpg,cd
+660,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-5059003-20110106 (2).jpg,cd
+661,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-26726463-20100420 (2).jpg,cd
+662,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-23457593-20070705.jpg,cd
+663,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-10896693-20160201.jpg,cd
+664,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-32239013-20150409 (6).jpg,cd
+665,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-23278883-20110517.jpg,cd
+666,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-17635723-20130111 (3).jpg,cd
+667,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-32714213-20151005 (7).jpg,cd
+668,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-14474163-20100316 (2).jpg,cd
+669,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-22649483-20090413 (5).jpg,cd
+670,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-17987043-20160608 (2).jpg,cd
+671,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-25087853-20081222.jpg,cd
+672,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-4044553-20100107 (4).jpg,cd
+673,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-19347753-20050812.jpg,cd
+674,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-20290923-20140818 (3).jpg,cd
+675,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-33947213-20160601 (2).jpg,cd
+676,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-23218723-20070416 (2).jpg,cd
+677,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-22966653-20070202 (2).jpg,cd
+678,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-32239233-20150409 (3).jpg,cd
+679,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-22832123-20160224 (3).jpg,cd
+680,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-4044553-20100107 (3).jpg,cd
+681,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-19365943-20120517 (2).jpg,cd
+682,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-5794893-20120525 (3).jpg,cd
+683,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-34854033-20170420.jpg,cd
+684,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-28357443-20110817.jpg,cd
+685,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-23771493-20120830 (4).jpg,cd
+686,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-32239013-20150409 (7).jpg,cd
+687,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-26193353-20091118.jpg,cd
+688,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-24697603-20150217 (2).jpg,cd
+689,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-26554283-20100303 (2).jpg,cd
+690,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-25773313-20090820 (2).jpg,cd
+691,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-1455773-20091022.jpg,cd
+692,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-32714213-20151005 (4).jpg,cd
+693,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-33850943-20160426.jpg,cd
+694,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-26228113-20100107 (2).jpg,cd
+695,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-23192033-20110518 (2).jpg,cd
+696,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-18714133-20130722 (3).jpg,cd
+697,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-19670103-20071123.jpg,cd
+698,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-24129763-20100715 (3).jpg,cd
+699,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-27818263-20110225.jpg,cd
+700,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-26726463-20100420.jpg,cd
+701,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-4900113-20100217.jpg,cd
+702,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-23457593-20070705 (4).jpg,cd
+703,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-30183353-20130408 (3).jpg,cd
+704,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-30519373-20150106 (2).jpg,cd
+705,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-23486823-20151030 (6).jpg,cd
+706,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-26183273-20100527.jpg,cd
+707,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-18424993-20170928 (2).jpg,cd
+708,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-35072133-20170707 (2).jpg,cd
+709,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-17635723-20130111 (6).jpg,cd
+710,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-12493103-20100204 (2).jpg,cd
+711,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-10452543-20080103 (2).jpg,cd
+712,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-27009433-20100826 (4).jpg,cd
+713,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-34854033-20170420 (2).jpg,cd
+714,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-9301143-20150709 (2).jpg,cd
+715,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-30546143-20130819.jpg,cd
+716,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-17463563-20120524 (2).jpg,cd
+717,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-28432913-20110826 (5).jpg,cd
+718,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-24232153-20080410 (3).jpg,cd
+719,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-30812333-20131202.jpg,cd
+720,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-18105053-20090305 (2).jpg,cd
+721,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-28912343-20130820.jpg,cd
+722,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-18714133-20130722 (2).jpg,cd
+723,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-26596233-20100622.jpg,cd
+724,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-24954573-20151224 (3).jpg,cd
+725,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-32239013-20150409 (8).jpg,cd
+726,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-28255503-20120806.jpg,cd
+727,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-32714213-20151005 (5).jpg,cd
+728,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-22649483-20090413 (3).jpg,cd
+729,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-30519373-20150106 (5).jpg,cd
+730,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-23771493-20120830.jpg,cd
+731,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-12866733-20160111 (2).jpg,cd
+732,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-30089273-20130304.jpg,cd
+733,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-12962193-20080723.jpg,cd
+734,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-28536943-20111213 (2).jpg,cd
+735,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-32714213-20151005 (2).jpg,cd
+736,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-12866733-20160111.jpg,cd
+737,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-30098373-20160325.jpg,cd
+738,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-11370213-20100603 (2).jpg,cd
+739,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-29529633-20120911 (2).jpg,cd
+740,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-25237653-20160406.jpg,cd
+741,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-6453273-20130216 (3).jpg,cd
+742,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-6241413-20090820.jpg,cd
+743,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-16402063-20180206 (4).jpg,cd
+744,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-30483093-20130729 (2).jpg,cd
+745,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-28536943-20111213 (3).jpg,cd
+746,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-20290923-20140818.jpg,cd
+747,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-22649483-20090413.jpg,cd
+748,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-23486823-20151030 (3).jpg,cd
+749,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-26168253-20150401 (2).jpg,cd
+750,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-5625893-20101027 (2).jpg,cd
+751,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-11544043-20110216 (3).jpg,cd
+752,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-27651063-20140326.jpg,cd
+753,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-6169113-20120105 (2).jpg,cd
+754,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-5794893-20120525 (2).jpg,cd
+755,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-9301143-20150709 (3).jpg,cd
+756,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-31449493-20160629.jpg,cd
+757,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-33572633-20160105 (2).jpg,cd
+758,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-28432913-20110826 (3).jpg,cd
+759,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-27561893-20101206.jpg,cd
+760,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-28432913-20110826 (4).jpg,cd
+761,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-19655973-20150805.jpg,cd
+762,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-25232363-20090521 (3).jpg,cd
+763,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-17525253-20100810 (2).jpg,cd
+764,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-22832123-20160224 (4).jpg,cd
+765,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-26554283-20100303 (3).jpg,cd
+766,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-25363183-20101018 (2).jpg,cd
+767,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-17463563-20120524 (6).jpg,cd
+768,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-32239013-20150409 (3).jpg,cd
+769,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-9260443-20100219.jpg,cd
+770,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-22649483-20090413 (2).jpg,cd
+771,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-26490253-20100205.jpg,cd
+772,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-31848823-20141120 (2).jpg,cd
+773,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-33405633-20170211 (3).jpg,cd
+774,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-17483163-20100329 (3).jpg,cd
+775,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-23457593-20070705 (6).jpg,cd
+776,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-20117473-20120618 (2).jpg,cd
+777,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-29271313-20120621 (2).jpg,cd
+778,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-33405633-20170211.jpg,cd
+779,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-17635723-20130111 (7).jpg,cd
+780,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-17873673-20070528 (4).jpg,cd
+781,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-30889213-20160812 (2).jpg,cd
+782,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-17873673-20070528 (3).jpg,cd
+783,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-22832123-20160224 (7).jpg,cd
+784,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-14474163-20100316 (6).jpg,cd
+785,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-25232363-20090521.jpg,cd
+786,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-32239013-20150409.jpg,cd
+787,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-23457593-20070705 (3).jpg,cd
+788,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-27009433-20100826 (2).jpg,cd
+789,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-27691823-20150306 (2).jpg,cd
+790,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-30424653-20130705 (2).jpg,cd
+791,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-17483163-20100329 (4).jpg,cd
+792,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-19286473-20110616.jpg,cd
+793,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-19365943-20120517 (3).jpg,cd
+794,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-11370213-20100603.jpg,cd
+795,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-30483093-20130729 (3).jpg,cd
+796,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-11349173-20140730 (2).jpg,cd
+797,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-23771493-20120830 (2).jpg,cd
+798,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-27818263-20110225 (2).jpg,cd
+799,/home/prml/chanyoung/Trainer/_DATA/gachon_polyp/data/validation/cd/C-27818263-20110225 (5).jpg,cd
