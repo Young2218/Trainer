@@ -35,7 +35,8 @@ class Trainer:
         
         for epoch in range(1, self.max_epoch):
             train_loss = self.train_one_epoch()
-            val_loss = self.validate_one_epoch()
+            if self.val_loader is not None:
+                val_loss = self.validate_one_epoch()
             
             if self.scheduler is None:
                 pass
@@ -50,24 +51,26 @@ class Trainer:
                 self.writer.add_scalar(name, met.compute(), epoch)
             
             self.writer.flush()
+            if self.val_loader is not None:
+                print(f'EPOCH[{epoch}] TRAIN_LOSS[{train_loss:.5f}] VAL_LOSS[{val_loss:.5f}]', end=' ')
+                for name, met in self.evaluate_dic.items():
+                    print(f"{name}[{met.compute():.5f}]", end=' ')
+                print()
             
-            print(f'EPOCH[{epoch}] TRAIN_LOSS[{train_loss:.5f}] VAL_LOSS[{val_loss:.5f}]', end=' ')
-            for name, met in self.evaluate_dic.items():
-                print(f"{name}[{met.compute():.5f}]", end=' ')
-            print()
-            
-            
-            if min_val_loss > val_loss:
-                min_val_loss = val_loss
-                check_early_stop = 1
-                torch.save(self.model.state_dict(), self.save_path)
+                if min_val_loss > val_loss:
+                    min_val_loss = val_loss
+                    check_early_stop = 1
+                    torch.save(self.model.state_dict(), self.save_path)
+                else:
+                    check_early_stop += 1
+                    if check_early_stop > self.early_stop:
+                        print("EARLY STOP")
+                        self.writer.close()
+                        break
             else:
-                check_early_stop += 1
-                if check_early_stop > self.early_stop:
-                    print("EARLY STOP")
-                    self.writer.close()
-                    break
-        
+                print(f'EPOCH[{epoch}] TRAIN_LOSS[{train_loss:.5f}]')
+                min_val_loss = min(min_val_loss, train_loss)
+                
         print(f"End Train in {epoch} epochs, Min Loss[{min_val_loss}]")
         return str(min_val_loss)
         
