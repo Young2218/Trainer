@@ -1,6 +1,12 @@
 _RESULT/
 _DATA/
 DATA/
+
+*.pt
+*.pth
+*.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
